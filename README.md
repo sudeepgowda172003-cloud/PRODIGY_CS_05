@@ -172,10 +172,10 @@ PRODIGY_CS_05/
 
 ## 👨‍💻 Author
 
-**Prasad** — Cyber Security Intern @ Prodigy InfoTech
+**Sudeep** — Cyber Security Intern @ Prodigy InfoTech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Prasadsarkate)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Prasadsarkate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sudeepm17)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sudeepgowda172003)
 
 ---
 
